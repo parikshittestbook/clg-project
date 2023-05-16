@@ -1,4 +1,4 @@
-# bridge
+# lynk-inn
 
 ## Features 
 
